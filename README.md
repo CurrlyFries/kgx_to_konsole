@@ -22,7 +22,7 @@ fi
 
 ```
 
-This should mean that if an app or process runs `kgx --command=(command)` it will be replaced by `konsole -e $SHELL -c "command"`
+This should mean that if an app or process runs `kgx --command="(command)"` it will be replaced by `konsole -e $SHELL -c "(command)"`
 
 
 
