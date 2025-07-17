@@ -1,4 +1,4 @@
-# Swap Gnome's Kgx console to KDE's konsole
+# Swap Gnome's "KGX" terminal emulator to KDE's "konsole" terminal emulator
 A bash script that should (In theory) let you replace kgx (gnome-console) with konsole
 
 To install, replace "/usr/bin/kgx" with a bash file with the same name ("kgx")
